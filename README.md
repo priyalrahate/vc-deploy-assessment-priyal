@@ -20,7 +20,7 @@ Version control allows developers to track and manage changes to code over time.
 This is a minimal TODO app built using **Vanilla JavaScript**, HTML, and CSS. Users can add tasks, view them in a list, and optionally mark tasks as done by clicking on them.
 
 **Live Demo:**  
-<!-- [https://vc-deploy-assessment-priyal.vercel.app](https://vc-deploy-assessment-priyal.vercel.app)   -->
+[<!-- [https://vc-deploy-assessment-priyal.vercel.app](https://vc-deploy-assessment-priyal.vercel.app)   -->](https://vc-deploy-assessment-priyal-vzzr.vercel.app/)
 
 ---
 
